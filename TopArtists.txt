@@ -1,0 +1,499 @@
+Glee Cast
+Lil Wayne
+Drake
+Elvis Presley
+James Brown
+Jay-Z
+Chris Brown
+Kanye West
+Ray Charles
+Aretha Franklin
+The Beatles
+Taylor Swift
+Nicki Minaj
+Elton John
+Stevie Wonder
+Justin Bieber
+Frank Sinatra
+The Beach Boys
+The Rolling Stones
+Paul Anka
+Madonna
+Rihanna
+Ludacris
+Marvin Gaye
+Neil Diamond
+Dionne Warwick
+Pat Boone
+Prince
+Ricky Nelson
+Eminem
+The Supremes
+The Temptations
+Beyoncé
+Rod Stewart
+Tony Bennett
+Connie Francis
+Tim McGraw
+Jackie Wilson
+Michael Jackson
+Chicago
+Usher
+Fats Domino
+Nat King Cole
+T-Pain
+Brenda Lee
+Brook Benton
+Johnny Cash
+Mariah Carey
+The Miracles
+Miley Cyrus
+Paul McCartney/Wings
+Bobby Vinton
+Pitbull
+Frankie Valli & Four Seasons
+Sam Cooke
+Andy Williams
+Glen Campbell
+The Isley Brothers
+Bee Gees
+Perry Como
+50 Cent
+Barbra Streisand
+Janet Jackson
+Mary J. Blige
+Kenny Rogers
+Diana Ross
+Four Tops
+The Impressions
+Billy Joel
+Whitney Houston
+Olivia Newton-John
+Akon
+Gladys Knight
+Linda Ronstadt
+The Platters
+Bobby Darin
+Jerry Butler
+Johnny Mathis
+Wilson Pickett
+Nelly
+Patti Page
+Al Martino
+The Everly Brothers
+Tina Turner
+Keith Urban
+Hall & Oates
+Britney Spears
+Bobby Bland
+Celine Dion
+Dion and the Belmonts
+Donna Summer
+Cher
+John Denver
+Bobby Vee
+Kool & the Gang
+Bob Seger
+Dean Martin
+Earth, Wind & Fire
+Heart
+B. B. King
+Doris Day
+Justin Timberlake
+The Jackson 5
+Roy Orbison
+The 5th Dimension
+Christina Aguilera
+The Spinners
+The Drifters
+Toby Keith
+John Mellencamp
+Aerosmith
+Carrie Underwood
+Johnny Rivers
+Kenny Chesney
+Duane Eddy
+Otis Redding
+The O'Jays
+Barry Manilow
+The Carpenters
+Gloria Estefan
+U2
+Jefferson Starship
+The Righteous Brothers
+Pink
+Phil Collins
+The Pointer Sisters
+The Doobie Brothers
+Tom Petty
+George Strait
+Ray Stevens
+Alan Jackson
+Kelly Clarkson
+Electric Light Orchestra
+Bruce Springsteen
+Herb Alpert
+Fleetwood Mac
+Journey
+The Who
+Jan & Dean
+Queen
+Johnny Tillotson
+Carly Simon
+David Bowie
+The Shirelles
+Anne Murray
+Joe Tex
+George Michael
+Bryan Adams
+The Dells
+Bon Jovi
+Commodores
+Alicia Keys
+Chuck Berry
+B. J. Thomas
+The Four Aces
+Martha and the Vandellas
+Kiss
+Smokey Robinson
+Gene Pitney
+Bobby Rydell
+Tommy James and the Shondells
+Brooks & Dunn
+Paul Revere & the Raiders
+Billy Vaughn & Orchestra
+Bob Dylan
+Ariana Grande
+Demi Lovato
+Katy Perry
+The Dave Clark Five
+Styx
+Tom Jones
+The McGuire Sisters
+Santana
+Sheena Easton
+Marty Robbins
+The Marvelettes
+Frankie Avalon
+The Hollies
+The Kinks
+Tupac Shakur
+Bobby Goldsboro
+Eddie Money
+Neil Sedaka
+Genesis
+Foreigner
+Eric Clapton
+Van Halen
+Petula Clark
+Bill Haley & His Comets
+Jimmie Rodgers
+Johnnie Taylor
+Jr. Walker & the All Stars
+Tommy Roe
+Engelbert Humperdinck
+Freddy "Boom Boom" Cannon
+Solomon Burke
+The Mills Brothers
+Three Dog Night
+Chubby Checker
+Lady Gaga
+Huey Lewis and the News
+Eagles
+Rick Springfield
+Simon & Garfunkel
+Helen Reddy
+The Guess Who
+James Taylor
+Kenny Loggins
+The Grass Roots
+REO Speedwagon
+Rufus Chaka Khan
+Mary Wells
+Leslie Gore
+Dr. Hook & The Medicine Show
+Steve Winwood
+Nancy Sinatra
+Little Richard
+Brian Hyland
+Ben E. King
+Creedence Clearwater Revival
+Toni Braxton
+Boyz II Men
+Duran Duran
+Al Green
+ABBA
+The Moody Blues
+The Monkees
+Sonny & Cher
+Luther Vandross
+Alice Cooper
+Ronnie Dove
+Sarah Vaughan
+Dolly Parton
+Clyde McPhatter
+The Lettermen
+Gene Chandler
+High School Musical
+Herman's Hermits
+Lionel Richie
+Ke$ha
+The Animals
+Sting
+The Four Lads
+R.E.M.
+Dusty Springfield
+The Coasters
+Avril Lavigne
+Shakira
+Steve Miller Band
+Grand Funk Railroad
+Jack Scott
+Cliff Richard
+Patti LaBelle
+Jerry Lee Lewis
+Selena Gomez
+The Rascals
+Bruno Mars
+Tony Orlando
+Survivor
+The Cars
+Donny Osmond
+Barry White
+Peter, Paul and Mary
+KC and the Sunshine Band
+Roberta Flack
+Sly & the Family Stone
+Steve Lawrence
+Natalie Cole
+Jay and the Americans
+Kim Carnes
+The J. Geils Band
+Bette Midler
+Conway Twitty
+Shania Twain
+Lenny Kravitz
+Bill Black's Combo
+The Black Eyed Peas
+Michael Bolton
+George Harrison
+Pat Benatar
+Richard Marx
+Theresa Brewer
+Jennifer Lopez
+John Lennon
+Paul Simon
+The Kingston Trio
+Donovan
+Jackson Browne
+America
+The Mamas & the Papas
+En Vogue
+The Stylistics
+Monica
+INXS
+Guy Mitchell
+Del Shannon
+ZZ Top
+Booker T. & the M.G.'s
+Martina McBride
+Depeche Mode
+Metallica
+Lou Rawls
+Def Leppard
+The Diamonds
+Brandy
+Carole King
+Little River Band
+Backstreet Boys
+War
+The Turtles
+Coldplay
+Bad Company
+Cheap Trick
+Billy Preston
+Jackie DeShannon
+Ray Parker, Jr.
+Fabian
+Gary Lewis & the Playboys
+Roger Miller
+TLC
+Paula Abdul
+Don Henley
+Eurythmics
+Steely Dan
+Ames Brothers
+Nickelback
+Robert Palmer
+Sheryl Crow
+38 Special
+The Staple Singers
+The Doors
+Red Hot Chili Peppers
+Linkin Park
+Paul Davis
+Melissa Manchester
+Pet Shop Boys
+LaVern Baker
+Destiny's Child
+Aaliyah
+New Kids on the Block
+Air Supply
+Dan Fogelberg
+Stevie Nicks
+Little Anthony & The Imperials
+Cat Stevens
+The Fontane Sisters
+Cyndi Lauper
+The Lovin' Spoonful
+Amy Grant
+Toto
+Peter and Gordon
+Captain & Tennille
+Frankie Valli
+Mötley Crüe
+Jonas Brothers
+Tavares
+Eddie Rabbitt
+George Benson
+Lobo
+The Ohio Players
+Boz Scaggs
+The Searchers
+Sammy Davis, Jr
+Atlanta Rhythm Section
+Henry Mancini
+Kansas
+The Ventures
+Todd Rundgren
+Rita Coolidge
+Percy Sledge
+Neil Young
+The Cure
+King Curtis
+Five Stairsteps
+Bread
+Bobby Brown
+Lloyd Price
+Poison
+Guns N' Roses
+Adele
+The Crew-Cuts
+Loverboy
+The Vogues
+Charlie Rich
+Vanessa L. Williams
+Laura Branigan
+Steppenwolf
+The Association
+Ronnie Milsap
+Clarence Carter
+Mitch Miller
+Mac Davis
+The Manhattans
+Tommy James
+Exposé
+Ringo Starr
+The Osmonds
+Joe Cocker
+Roxette
+The Police
+Billy Idol
+Babyface
+Billy Ocean
+Eric Carmen & the Raspberries
+Goo Goo Dolls
+Isaac Hayes
+Stevie B
+Glenn Frey
+Bill Withers
+Brian McKnight
+Willie Nelson
+The Four Preps
+Jimmy Buffett
+Seals & Crofts
+Peter Cetera
+Lou Christie
+Harold Melvin & the Blue Notes
+The Dramatics
+N Sync
+Debbie Gibson
+Gary U.S. Bonds
+The Fleetwoods
+Eddie Fisher
+Howard Jones
+Buddy Holly
+Nilsson
+Jimmy Clanton
+Melissa Etheridge
+Jodeci
+John Mayer
+Thompson Twins
+Nelly Furtado
+The Chordettes
+LeAnn Rimes
+The Shangri-Las
+Gerry & the Pacemakers
+Kenny G
+Night Ranger
+Firefall
+Ferrante & Teicher
+The Chiffons
+Anita Baker
+Van Morrison
+Lee Dorsey
+Major Lance
+Judy Collins
+The Tokens
+Patsy Cline
+Pearl Jam
+The Whispers
+Gino Vannelli
+Crystal Gayle
+Nitty Gritty Dirt Band
+Waylon Jennings
+Soundgarden
+Culture Club
+Taylor Dayne
+Supertramp
+Corey Hart
+Andy Gibb
+Jim Croce
+Enrique Iglesias
+Blondie
+Christopher Cross
+Boston
+James Ingram
+Marie Osmond
+Crosby, Stills, Nash & Young
+Salt-N-Pepa
+The Box Tops
+Meat Loaf
+Jets
+MC Hammer
+Gordon Lightfoot
+David Seville / Ross Bagdasarian
+Bruce Hornsby and the Range
+Blood, Sweat & Tears
+Pablo Cruise
+The Pretenders
+Bachman-Turner Overdrive
+Chad & Jeremy
+Led Zeppelin
+Peter Gabriel
+The Tymes
+Jimmy Gilmer & the Fireballs
+Sarah McLachlan
+Yes
+Barbara Lewis
+Alabama
+Atlantic Star
+10cc
+Joni Mitchell
+The Chipmunks
+The Allman Brothers Band
+Betty Everett
+Olympics
+Charley Pride
+Kylie Minogue
+Robbie Williams
